@@ -1,0 +1,38 @@
+_repo: The-Story-of-My-Boyhood-and-Youth_18359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+description: In this moving memoir of an unusual childhood, John Muir recalls his
+  younger days in East Lothian with a startling clarity, depicting a wild boy whose
+  quiet individuality and determination were already emerging. Born in mid nineteenth-century
+  Scotland, Muir was eleven when his fanatically religious father took the family
+  to build a new life in America's vast wilderness. Muir charts their pioneering years
+  in Wisconsin, where his battles for survival powerfully anticipate the extraordinary
+  career which was to follow. They reveal a free spirit who perceived bonds between
+  man and nature that.
+gutenberg_issued: '2006-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Wisconsin'
+- !lcsh 'Wisconsin -- Social life and customs'
+- !lcsh 'Naturalists -- United States -- Biography'
+- !lcsh 'Conservationists -- United States -- Biography'
+- !lcsh 'Muir, John, 1838-1914 -- Childhood and youth'
+- !lcc 'QH'
+title: The Story of My Boyhood and Youth
+url: http://www.gutenberg.org/ebooks/18359
